@@ -179,6 +179,14 @@ h3,
 	margin-right: 25px;
 }
 
+.about-image {
+	width: 800px;
+	height: auto;
+	margin-top: 10px;
+	float: left;
+	margin-right: 25px;
+}
+
 /*contact page*/
 
 #contact-form ul {
